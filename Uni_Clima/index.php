@@ -1,1 +1,0 @@
-<?php header('location: src/pages/user/register.php');?>
