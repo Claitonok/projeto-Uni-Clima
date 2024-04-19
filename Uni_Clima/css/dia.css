@@ -1,0 +1,44 @@
+footer img {
+   margin-top: 2rem;
+   margin-right: 18px;
+   margin-left: 20px;
+}
+footer {
+  background-color: rgb(78, 78, 78);
+  margin-top: 388px;
+  height: 250px;
+}
+.paragrafo {
+  margin-top: 1rem;
+  color: black;
+  margin-left: 20px;
+}
+.roda {
+ margin-top: -223px;
+  margin-left: 85%;
+}
+.roda p {
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+@media screen and (min-width: 576px) {
+       
+  }
+  
+  @media screen and (min-width: 768px) {
+   
+  }
+  
+  @media screen and (min-width: 992px) {
+    
+  }
+  
+  @media screen and (min-width: 1200px) {
+   
+  }
+  
+  @media screen and (min-width: 1400px) {
+   
+  }
